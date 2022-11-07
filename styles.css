@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Tajawal', sans-serif;
+    /* margin: 10px 40px; */
+    /* padding: 20px; */
+    font-size: 30px;
+    overflow-x: hidden;
+}
+
+.bigPass {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 10rem;
+}
+
+input {
+    padding: 7px;
+    font-size: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    color: aliceblue;
+    font-size: 20px;
+    background: rgb(0, 0, 0);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+img {
+    width: 200px;
+    height: 70px;
+    display: block;
+    margin: auto auto 50px;
+}
+
+nav {
+    padding-top: 10px;
+    box-shadow: 0px 10px 8px -7px rgba(212, 201, 212, 1);
+}
+
+.none {
+    margin: 40px;
+}
